@@ -40,10 +40,3 @@ Os estilos principais estão definidos em `css/main.css` e `css/_reset.css`. O l
 
 A lógica para alterar o status de aluguel dos jogos está no arquivo `js/app.js`. A função `alterarStatus(id)` é chamada quando um botão de aluguel/devolução é clicado.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias para este projeto. Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
