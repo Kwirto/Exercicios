@@ -24,6 +24,3 @@ Este é um projeto simples de um carrinho de compras desenvolvido em JavaScript,
 - Atualizar o valor total da compra
 - Limpar o carrinho
 
-## Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:
