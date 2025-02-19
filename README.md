@@ -4,42 +4,43 @@ Este repositório contém vários projetos de exercícios desenvolvidos com HTML
 
 ## Estrutura do Projeto
 
-- **Alugames/**: Um site de aluguel de boardgames.
+ 
+- <a href="https://github.com/LazimJunior/Exercicios/tree/main/Alugames"> **Alugames/**</a>: Um site de aluguel de boardgames.
   - **css/**: Contém os arquivos de estilo CSS.
   - **img/**: Contém as imagens usadas no site.
   - **js/**: Contém os arquivos JavaScript.
   - **index.html**: Arquivo HTML principal que estrutura o conteúdo do site.
   - **README.md**: Informações sobre o projeto Alugames.
 
-- **Amigo secreto/**: Um projeto simples de "Amigo Secreto".
+- <a href="https://github.com/LazimJunior/Exercicios/tree/main/Amigo%20secreto">  **Amigo secreto/** </a>: Um projeto simples de "Amigo Secreto".
   - **assets/**: Contém os arquivos de mídia.
   - **js/**: Contém os arquivos JavaScript.
   - **styles/**: Contém os arquivos de estilo CSS.
   - **index.html**: Estrutura HTML da aplicação.
   - **README.md**: Informações sobre o projeto Amigo Secreto.
 
-- **Carrinho compras/**: Um projeto simples de um carrinho de compras.
+- <a href="https://github.com/LazimJunior/Exercicios/tree/main/Carrinho%20compras"> **Carrinho compras/**</a>: Um projeto simples de um carrinho de compras.
   - **assets/**: Contém os arquivos de mídia.
   - **js/**: Contém os arquivos JavaScript.
   - **styles/**: Contém os arquivos de estilo CSS.
   - **index.html**: Estrutura HTML da aplicação.
   - **README.md**: Informações sobre o projeto Carrinho de Compras.
 
-- **Ingresso/**: Uma página web para compra de ingressos.
+- <a href="https://github.com/LazimJunior/Exercicios/tree/main/Ingresso">**Ingresso/**</a>: Uma página web para compra de ingressos.
   - **assets/**: Contém os arquivos de mídia.
   - **js/**: Contém os arquivos JavaScript.
   - **styles/**: Contém os arquivos de estilo CSS.
   - **index.html**: Estrutura HTML da aplicação.
   - **README.md**: Informações sobre o projeto e-Ticket.
 
-- **Número secreto/**: Um jogo simples onde o jogador deve adivinhar um número secreto.
+- <a href="https://github.com/LazimJunior/Exercicios/tree/main/N%C3%BAmero%20secreto"> **Número secreto/**</a>: Um jogo simples onde o jogador deve adivinhar um número secreto.
   - **IMG/**: Contém as imagens utilizadas no projeto.
   - **JS/**: Contém os arquivos JavaScript.
   - **styles/**: Contém os arquivos de estilo CSS.
   - **index.html**: Estrutura HTML da aplicação.
   - **README.md**: Informações sobre o projeto Jogo do Número Secreto.
 
-- **Sorteador números/**: Um sorteador de números.
+- <a href="https://github.com/LazimJunior/Exercicios/tree/main/Sorteador%20n%C3%BAmeros">**Sorteador números/**</a>: Um sorteador de números.
   - **img/**: Contém as imagens utilizadas no projeto.
   - **script/**: Contém os arquivos JavaScript.
   - **styles/**: Contém os arquivos de estilo CSS.
